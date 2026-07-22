@@ -752,11 +752,11 @@ export function ContractGenerator() {
     try {
       await exportDocx(
         preview,
-        { ...form, includeSeal: false },
+        { ...form, includeSignature: false, includeSeal: false },
         images,
         assets,
       );
-      setToast(preview === "contract" ? "Договор Word сформирован без печати" : "Приложение Word сформировано без печати");
+      setToast(\n        preview === "contract"\n          ? "Договор Word сформирован без подписи и печати"\n          : "Приложение Word сформировано без подписи и печати",\n      );
     } catch (error) {
       console.error(error);
       setToast("Не удалось сформировать Word — проверьте изображения и повторите");
@@ -1126,7 +1126,7 @@ export function ContractGenerator() {
                 <span>04</span>
                 <div>
                   <h2>Оформление</h2>
-                  <p>Изображения попадут перед таблицей; подпись — по выбору в Word и PDF, печать ООО — только в PDF.</p>
+                  <p>Изображения попадут перед таблицей; подпись и печать ООО добавляются только в PDF.</p>
                 </div>
               </div>
 
@@ -1210,7 +1210,7 @@ export function ContractGenerator() {
                   label="Подпись исполнителя"
                   description={
                     assets.signature
-                      ? "Добавить загруженную подпись в Word и PDF"
+                      ? "Добавить загруженную подпись только в PDF"
                       : "Сначала загрузите изображение подписи"
                   }
                   disabled={!assets.signature}
@@ -1300,7 +1300,7 @@ export function ContractGenerator() {
             <div className="preview-tools">
               <span>{PERFORMERS[form.entity].short}</span>
               <button type="button" onClick={handleWordExport} disabled={Boolean(busy)}>
-                {busy === "word" ? "Формируем…" : "Word без печати"}
+                {busy === "word" ? "Формируем…" : "Word без подписи и печати"}
               </button>
               <button className="preview-download-primary" type="button" onClick={handlePdfExport} disabled={Boolean(busy)}>
                 {busy === "pdf" ? "Формируем…" : pdfExportLabel}
