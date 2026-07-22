@@ -1,0 +1,4831 @@
+{
+  "path": "/Users/ivan/.codex/visualizations/2026/07/22/019f898f-7dc1-7c22-ba1e-a31da52ddb4c/contract-generator/deliverables/Предварительный шаблон — Договор ООО Мастера рекламы.docx",
+  "sha256": "fd01459fb818416cbef798730e30dfb0304deb5d8441527c2dbae7a89501b5ab",
+  "paragraphs": [
+    {
+      "text": "",
+      "style": "Название",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "ДОГОВОР НА ОКАЗАНИЕ УСЛУГ № {{НОМЕР ДОГОВОРА}}",
+      "style": "Body Text Indent",
+      "alignment": 1,
+      "runs": [
+        {
+          "text": "ДОГОВОР НА ОКАЗАНИЕ УСЛУГ № ",
+          "bold": true,
+          "italic": false,
+          "underline": null,
+          "font": "Times New Roman",
+          "size_pt": 14.0
+        },
+        {
+          "text": "{{НОМЕР ДОГОВОРА}}",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": "Times New Roman",
+          "size_pt": 14.0
+        }
+      ]
+    },
+    {
+      "text": "(по изготовлению, монтажу и обслуживанию рекламных конструкций)",
+      "style": "Body Text Indent",
+      "alignment": 1,
+      "runs": [
+        {
+          "text": "(по изготовлению, монтажу и обслуживанию рекламных конструкций)",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": "Times New Roman",
+          "size_pt": null
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "г. Москва\t\t\t{{ДАТА ДОГОВОРА ПРОПИСЬЮ}}",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": [
+        {
+          "text": "г. Москва\t\t\t",
+          "bold": false,
+          "italic": false,
+          "underline": null,
+          "font": "Times New Roman",
+          "size_pt": 11.0
+        },
+        {
+          "text": "{{ДАТА ДОГОВОРА ПРОПИСЬЮ}}",
+          "bold": false,
+          "italic": null,
+          "underline": null,
+          "font": "Times New Roman",
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": []
+    },
+    {
+      "text": "{{ПРЕАМБУЛА ЗАКАЗЧИКА}} с одной стороны, и Общество с ограниченной ответственностью «Мастера Рекламы» в лице генерального директора Гассиева Алана Руслановича, именуемое в дальнейшем «Исполнитель», действующее на основании Устава с другой стороны, при совместном упоминании по тексту Договора — «Стороны», и по отдельности — «Сторона», заключили настоящий Договор оказания услуг (далее — Договор) о нижеследующем:",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "{{ПРЕАМБУЛА ЗАКАЗЧИКА}}",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": "Times New Roman",
+          "size_pt": 11.0
+        },
+        {
+          "text": " с одной стороны, и Общество с ограниченной ответственностью «Мастера Рекламы» в лице генерального директора Гассиева Алана Руслановича, именуемое в дальнейшем «Исполнитель», действующее на основании Устава с другой стороны, при совместном упоминании по тексту Договора — «Стороны», и по отдельности — «Сторона», заключили настоящий Договор оказания услуг (далее — Договор) о нижеследующем:",
+          "bold": false,
+          "italic": false,
+          "underline": null,
+          "font": "Times New Roman",
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "1. ПРЕДМЕТ ДОГОВОРА",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": [
+        {
+          "text": "1. ПРЕДМЕТ ДОГОВОРА",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "1.1. Настоящий Договор регламентирует общие принципы взаимодействия Сторон, их права, обязанности и ответственность, возникающие в ходе исполнения настоящего Договора.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "1.1. Настоящий Договор регламентирует общие принципы взаимодействия Сторон, их права, обязанности и ответственность, возникающие в ходе исполнения настоящего Договора.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "1.2 Заказчик поручает, а Исполнитель обязуется выполнять работы по изготовлению, монтажу \nи подключению рекламно-информационных изделий, конструкций на объектах Заказчика (далее – «работы») по цене, согласованной Сторонами в Приложениях к Договору, являющихся его неотъемлемой частью с даты подписания обеими Сторонами.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "1.2 ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчик",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " поручает, а ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнитель",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " обязуется выполнять работы по изготовлению, монтажу ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "\n",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "и подключению рекламно-информационных изделий, конструкций на объектах ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчика",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " (далее ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "–",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": null
+        },
+        {
+          "text": " «работы») по цене, согласованной Сторонами в Приложениях к Договору, являющихся его неотъемлемой частью с даты подписания обеими Сторонами.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "1.3. Состав, условия, сроки, стоимость работ по конкретному объекту Заказчика, место выполнения монтажных и пусконаладочных работ, требования к качеству работ и их результатов согласовываются Сторонами в Приложениях к Договору, являющихся его неотъемлемой частью. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "1.3. Состав, условия, сроки, стоимость работ по конкретному объекту ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчика",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ", место выполнения монтажных и пусконаладочных работ, требования к качеству работ и их результатов согласовываются Сторонами в Приложениях к Договору, являющихся его неотъемлемой частью. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "На каждый Объект Заказчика согласовывается отдельное Приложение, включающее в себя:",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "На каждый Объект ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчика",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " согласовывается отдельное Приложение, включающее в себя:",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "- Перечень работ;",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "- Перечень работ;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "- Финансовый расчет стоимости работ;",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "- Финансовый расчет стоимости работ;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "- Дизайн-макет;",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "- Дизайн-макет;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "Форма Приложения, включая форму, содержащую перечень работ, форму финансового отчета, форму дизайн-макета, согласовывается Сторонами в свободной форме после подписания настоящего Договора. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "Форма Приложения, включая форму, содержащую перечень работ, форму финансового отчета, форму дизайн-макета, согласовывается Сторонами ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "в свободной форме после подписания",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " настоящего Договора. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": []
+    },
+    {
+      "text": "2. ПРАВА И ОБЯЗАННОСТИ СТОРОН",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": [
+        {
+          "text": "2. ПРАВА И ОБЯЗАННОСТИ СТОРОН",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": []
+    },
+    {
+      "text": "2.1. ИСПОЛНИТЕЛЬ обязуется:",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.1.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "ИСПОЛНИТЕЛЬ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " обязуется:",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.1.1. Произвести сметный расчет стоимости заказа по каждому из объектов, предоставить смету для согласования с Заказчиком перед началом работ.  ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.1.1. Произвести сметный расчет стоимости заказа по каждому из объектов, предоставить смету для согласования с ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " перед началом работ.  ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.1.2. Своими силами и средствами, инструментом, оборудованием и механизмами, из собственных либо приобретенных за свой счет материалов и комплектующих, выполнить работы, указанные в п.1.2. настоящего Договора и Приложениях к нему. Исполнитель несет ответственность перед Заказчиком за качество материалов, используемых при выполнении работ и обязуется предоставить Заказчику документы на такие материалы (сертификаты качества, гарантийные талоны и прочее); ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.1.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "2",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " Своими силами и средствами, инструментом, ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "оборудованием и механизмами, из ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "собственных",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " либо приобретенных ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "за свой счет ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "материалов и комплектующих, выполнить работы, указанные в п.1.2. настоящего Договора и Приложениях к нему. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнитель ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "несет ответственность перед ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " за качество материалов, используемых при выполнении работ и обязуется предоставить ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчику",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " документы на такие материалы (сертификаты качества, гарантийные талоны и прочее); ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.1.3. Выполнить работы качественно и в сроки, согласованные Сторонами. Исполнитель несет ответственность перед Заказчиком за качество выполняемых работ и за сроки их выполнения;",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.1.3. Выполнить работы качественно и в сроки, согласованные Сторонами. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнитель ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "несет ответственность перед ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " за качество выполняемых работ и за сроки их выполнения;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.1.4. Выполнить все работы в соответствии с действующими нормами и техническими условиями.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.1.4. Выполнить все работы в соответствии с действующими нормами и техническими условиями.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.1.5. Выполнить подключение вывески согласно правилам устройства электроустановок (ПУЭ).",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".1.5. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Выполнить п",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "одключение вывески согласно",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " правилам устройства электроустановок",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "(",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "ПУЭ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ")",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.1.6. Обеспечить монтаж конструкций в соответствии с утвержденными правилами размещения вывесок на объекте, предоставляемых Заказчиком.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".1.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "6",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Обеспечить монтаж конструкций в соответствии с утвержденными правилами размещения вывесок на ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "объекте",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ", предоставляемых ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.1.7. Обеспечить сохранность существующей внешней отделки фасада здания.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.1.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "7",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Обеспечить сохранность существующей ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "внешней отделки фасада ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "здания",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.1.8. При необходимости привлекать для выполнения работ/части работ субподрядчиков, оставаясь при этом ответственным перед Заказчиком за действия привлеченных Исполнителем субподрядчиков;",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.1.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "8",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ". При необходимости привлекать для выполнения работ/части работ субподрядчиков, оставаясь при этом ответственным перед ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " за действия привлеченных ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителем",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " субподрядчиков;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.1.9. За свой счет устранять недостатки изделий, конструкций и\\или выполненных работ. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.1.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "9",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ". За свой счет устранять недостатки изделий, конструкций и\\или выполненных работ. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.1.10. Срок выполнения работ согласовывается Сторонами в двустороннем порядке в Приложениях к настоящему Договору. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.1.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "1",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "0",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ". Срок выполнения работ согласовывается Сторонами в двустороннем порядке в Приложениях к настоящему Договору. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.1.11. Бесплатное хранение изготовленных изделий и конструкций на складе Исполнителя – 7 календарных дней. При невозможности забрать готовый заказ в этот срок Заказчик оплачивает Исполнителю хранение из расчета 200 руб. 00 коп за 1 м² площади, занимаемой готовыми конструкциями в сутки.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.1.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "1",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "1",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ". Бесплатное хранение изготовленных изделий и конструкций на складе Исполнителя – 7 календарных дней. При невозможности забрать готовый заказ в этот срок Заказчик оплачивает ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "И",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "сполнителю хранение из расчета 2",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "00 руб. 00 коп за 1 м² площади, занимаемой готовыми конструкциями в сутки.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": []
+    },
+    {
+      "text": "2.2. ЗАКАЗЧИК обязуется:\t",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.2.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "ЗАКАЗЧИК",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " обязуется:",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "\t",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.2.1. В течении 5-ти календарных дней либо принять от Исполнителя выполненные работы и подписать Акт приемки-передачи работ, либо предоставить мотивированный отказ с указанием выявленных недостатков. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.2.1.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "В течении 5-ти календарных дней либо п",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "ринять от ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителя",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " выполненные работы и подписать Акт приемки-передачи работ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ", либо",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " предоставить мотивированный отказ с ук",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "азанием выявленных недостатков. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.2.2.  Своевременно производить оплату в соответствии с разделом 3 настоящего Договора.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.2.2.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "  Своевременно производить оплату в соответствии с разделом 3 настоящего Договора.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.2.3. Предоставлять Исполнителю необходимую информацию для выполнения работ, перечисленных в п.1.2. Договора и приложениях к нему;",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.2.3. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Предоставлять ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителю",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " необходимую информацию для выполнения работ, перечисленных в п.1.2. Договора и приложениях к нему;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.2.4. Обеспечить готовность места установки рекламно-информационных изделий к моменту начала на нем работ, выполняемых Исполнителем по данному Договору (приложениям к договору), включая завершение всех выполняемых Заказчиком или другими его Исполнителями в данном месте работ в случае, если такие работы препятствуют проведению работ Исполнителем.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.2.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "4",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ". Обеспечить готовность места установки рекламно-информационных изделий к моменту начала на нем работ, выполняемы",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "х",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителем",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " по данному Договору (приложениям к договору), включая завершение всех выполняемых ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " или другими его ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителями",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " в данном месте работ в случае, если такие работы препятствуют проведению работ ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителем",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "2.2.5. Обеспечить допуск представителей Исполнителя к месту установки и проход в здание, возможность подъезда автотранспорта Исполнителя, а также возможность установки монтажных лесов, размещения автовышки, работы автокрана и подъезда большегрузных машин-длинномеров, если это необходимо.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "2.2.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "5",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " Обеспечить допуск представителей ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителя",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " к месту установки и проход в здание, возможность подъезда автотранспорта ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителя",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ", а также в",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "озможность установки монтажных ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "лесов",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ", размещения ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "автовышки, работы авто",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "крана и подъезда большегрузных ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "машин-длинномеров, если это необходимо.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": []
+    },
+    {
+      "text": "3. СТОИМОСТЬ УСЛУГ И ПОРЯДОК РАСЧЕТОВ",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": [
+        {
+          "text": "3. СТОИМОСТЬ УСЛУГ И ПОРЯДОК РАСЧЕТОВ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "3.1. Стоимость работ Исполнителя определяется приложениями к настоящему Договору, в которых согласовывается стоимость работ по каждому конкретному объекту Заказчика. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "3.1. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "С",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "тоимост",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "ь",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " работ ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителя",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " определяется",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " приложени",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "ями",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " к настоящему Договору",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ", в которых согласовывается стоимость работ по каждому конкретному объекту ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчика",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ". ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "3.2. Заказчик производит оплату работ в течении 5 календарных дней с даты принятия работ, если в приложении к настоящему договору не были предусмотрены другие сроки расчетов по какому-либо объекту Заказчика.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "3.2.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчик",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "производит оплату работ в ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "течении ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "5",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " календарных дней с даты ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "принятия работ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ", если в приложении к настоящему договору не были предусмотрены другие сроки расчетов по какому-либо объекту ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчика",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "3.3. Оплата работ производится на основании счета Исполнителя. Все расчеты по настоящему Договору производятся платежными поручениями в рублях, при этом днем оплаты считается день поступления денежных средств на расчетный счет Исполнителя. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "3.3. Оплата работ производится на основании счета ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителя",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ". Все расчеты по настоящему Договору производятся платежными поручениями в рублях, при этом днем оплаты считается день поступления денежных средств на ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "расчетный",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " счет",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителя",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ". ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "3.4. Счет-фактура предоставляется Исполнителем в соответствии с действующим законодательством РФ.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "3.4. Счет-фактура предоставляется ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителем",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " в соответствии с действующим законодательством РФ.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "3.5. Оплате подлежат работы, выполнение которых предварительно письменно согласовано с Заказчиком.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "3.5. Оплате подлежат работы, выполнение которых предварительно письменно согласовано с ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком.",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "3.6. В случае нарушения Заказчиком сроков оплаты работ по настоящему договору Исполнитель вправе требовать оплату пени за каждый календарный день просрочки в размере 0,1% от стоимости работ, оплата которых была произведена несвоевременно. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "3.6.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "В случае нарушения ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " сроков оплаты работ по настоящему договору ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнитель",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " вправе требовать оплату пени за каждый календарный день просрочки в размере 0,1% от стоимости работ, оплата которых была произведена несвоевременно. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": []
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": []
+    },
+    {
+      "text": "4. ПОРЯДОК СДАЧИ-ПРИЕМКИ РАБОТ",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": [
+        {
+          "text": "4. ПОРЯДОК СДАЧИ-ПРИЕМКИ РАБОТ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "     ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "     ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "4.1. Приемка выполненных работ оформляется подписанием двухстороннего Акта приемки-передачи работ. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "4.1. Приемка выполненных работ оформляется подписанием двухстороннего Акта приемки-передачи работ.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "4.2. Исполнитель, по результатам выполненных работ, в течении 5 календарных дней формирует и подписывает со своей Стороны 2 экземпляра Акта приемки-передачи выполненных работ, который направляет на подписание Заказчику.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "4.2.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " Исполнитель,",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " по результатам выполненных работ, ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "в течении ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "5 календарных ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "дней",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " формирует и подписывает со своей Стороны 2 экземпляра Акта приемки-передачи выполненных работ, который направляет на подписание ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчику",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "4.3. Заказчик, в течение 5 календарных дней со дня получения Акта приемки-передачи работ, обязан направить Исполнителю подписанный Акт или мотивированный отказ от его подписания. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "4.3.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " Заказчик,",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " в течение 5 ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "календарных",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " дней со дня получения Акта приемки-передачи работ, обязан направить ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителю",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " подписанный Акт или мотивированный отказ от его подписания. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "4.4. Работа считается выполненной надлежащим образом в случае подписания Акта Заказчиком, либо если в указанный в п. 4.3. настоящего Договора срок Заказчик не направит Исполнителю письменный мотивированный отказ от подписания Акта.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "4.4. Работа считается выполненной надлежащим образом в случае подписания Акта ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ", либо если в указанный в п. 4.3. настоящего Договора срок ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчик ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "не ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "направит ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителю",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " письменный мотивированный отказ от подписания Акта.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "4.5. В случае обнаружения недостатков в качестве выполненных работ или несоответствия по качеству изделий, Заказчик вправе предъявить Исполнителю соответствующие претензии и отказаться от подписания Акта приемки-передачи работ, о чем в Акте делается соответствующая отметка Заказчиком. Исполнитель устраняет допущенные недостатки и\\или недостачу за свой счет в течение согласованного с Заказчиком срока.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "4.5. В случае обнаружения недостатков в качестве выполненных работ или несоответствия по качеству изделий, ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчик",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " вправе предъявить ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителю",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " соответствующие претензии и отказаться от подписания Акта приемки-передачи работ, о чем в Акте делается соответствующая отметка ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком.",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнитель",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " устраняет допущенные недостатки и\\или недостачу за свой счет в течение согласованного с ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " срока.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "4.6. При обнаружении поломок и неисправностей после подписания Акта приемки-передачи работ в срок, на который распространяются гарантийные обязательства Исполнителя, Исполнитель за свой счет устраняет все неисправности, входящие в гарантийные обязательства. Стандартные гарантийные обязательства согласовываются в п.10 настоящего Договора. Для конкретных объектов Заказчика могут быть согласованы иные гарантийные обязательства, которые должны быть указаны в приложениях к настоящему договору с согласованием стоимости работ по этим Объектам.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "4.6. При обнаружении поломок и неисправностей после подписания Акта приемки-передачи работ в срок, на который распространяются гарантийные обязательства ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителя",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ", ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнитель ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "за свой ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "счет устраняет все неисправности, входящие в гарантийные обязательства. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Стандартные г",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "арантийные обязательства согласовываются в ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "п.10 настоящего Договора. Для конкретных объектов ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчика",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " могут быть согласованы иные гарантийные обязательства, которые должны быть указаны в ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "приложени",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "ях",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " к настоящему договору",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " с согласованием стоимости работ по этим Объектам",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "5. СРОК ДЕЙСТВИЯ ДОГОВОРА",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": [
+        {
+          "text": "5. СРОК ДЕЙСТВИЯ ДОГОВОРА",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": []
+    },
+    {
+      "text": "5.1. Настоящий Договор вступает в силу с момента его подписания Сторонами и действует в течение одного календарного года. В случае, если ни одна из сторон за тридцать дней до истечения срока действия настоящего договора не заявит о своем намерении расторгнуть его, то он считается продленным на следующий календарный год.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "5.1. Настоящий Договор вступает в силу с момента его подписания Сторонами и действует в течение одного календарного года.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " В случае, если ни одна из сторон за тридцать дней до истечения срока действия настоящего договора не заявит о своем намерении расторгнуть его, то он считается продленным на следующий календарный год.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "5.2. Настоящий Договор может быть расторгнут до окончания его срока действия при взаимном согласии Сторон, а также Заказчиком в одностороннем внесудебном порядке с предварительным письменным уведомлением Исполнителя не менее, чем за 30 календарных дней до даты расторжения Договора. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "5.2. Настоящий Договор может быть расторгнут до окончания его срока действия при взаимном согласии Сторон, а также ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " в одностороннем внесудебном порядке с предварительным письменным уведомлением ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителя",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " не менее, чем за 30 календарных дней до даты расторжения Договора",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ". ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "5.3. Настоящий Договор может быть расторгнут только после урегулирования Сторонами всех спорных вопросов и выполнения обязательств по Договору и Приложениям к нему.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "5.3. Настоящий ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Договор ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "может быть",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " расторгнут ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "только ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "после урегулирования Сторонами всех спорных вопросов и выполнения обязательств по Договору и Приложениям к нему.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "6. ОТВЕТСТВЕННОСТЬ СТОРОН",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": [
+        {
+          "text": "6. ОТВЕТСТВЕННОСТЬ СТОРОН",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "6.1. В случае неисполнения, несвоевременного или ненадлежащего исполнения обязательств по настоящему Договору Стороны несут ответственность в соответствии с действующим законодательством Российской Федерации и настоящим Договором.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "6.1. В случае неисполнения, несвоевременного или ненадлежащего исполнения обязательств по настоящему Договору Стороны несут ответственность в соответствии с действующим законодательством Российской Федерации и настоящим Договором.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "6.2. Исполнитель несет ответственность перед Заказчиком за качество изготовленных рекламно-информационных конструкций и качество используемых материалов, за качество выполняемых работ, а также за сроки выполнения работ. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "6.2. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнитель",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " несет ответственность перед ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "за качество изготовленных рекламно-информационных конструкций и качество используемых материалов",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ",",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " за качество выполняемых работ, а также ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "за ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "сроки выполнения работ. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "6.3. Заказчик несет ответственность перед Исполнителем за выполнение обязательств по своевременной приемке и оплате работ Исполнителя, выполненных с надлежащим качеством. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "6.3. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчик",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " несет ответственность перед ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителем",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " за выполнение обязательств по своевременной ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "приемке и ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "оплате работ ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителя",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ", выполненных",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " с надлежащим качеством",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ". ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "6.4. Заказчик самостоятельно несет полную ответственность за несоответствие содержания рекламно-информационных материалов действительности и действующему законодательству РФ.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "6.4. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчик",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " самостоятельно несет полную ответственность за несоответствие содержания рекламно-информационных материалов действительности и действующему законодательству РФ.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "6.5. В случае нарушения Исполнителем сроков выполнения работ Заказчик вправе требовать оплату пени за каждый календарный день просрочки в размере 0,1% от стоимости работ, которые были выполнены несвоевременно. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "6.5. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "В случае нарушения ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителем",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " сроков ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "выполнения работ ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчик",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "вправе требовать оплату пени за каждый календарный день просрочки в размере 0,1% от стоимости работ, которые были выполнены несвоевременно. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "7. ФОРС-МАЖОР",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": [
+        {
+          "text": "7. ФОРС-МАЖОР",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "7.1. Стороны освобождаются от ответственности за частичное или полное неисполнение обязательств по настоящему Договору, если это неисполнение явилось следствием обстоятельств непреодолимой силы, которые возникли на территории исполнения настоящего Договора после его заключения, либо если неисполнение обязательств Сторонами по Договору явилось следствием событий чрезвычайного характера, которые стороны не могли ни предвидеть, ни предотвратить разумными мерами.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "7.1. Стороны освобождаются от ответственности за частичное или полное неисполнение обязательств по настоящему Договору, если это неисполнение явилось следствием обстоятельств непреодолимой силы, которые возникли на территории исполнения настоящего Договора после его заключения, либо если неисполнение обязательств Сторонами по Договору явилось следствием событий чрезвычайного характера, которые стороны не могли ни предвидеть, ни предотвратить разумными мерами.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "7.2. К  обстоятельствам непреодолимой силы относятся события, на которые Сторона не может оказывать влияния и за возникновение которых она не несет ответственности, как то: война, восстание, землетрясение, наводнение,  пожар или подобные явления, забастовка, правительственные постановления, распоряжения (указы) государственных органов, законы и иные документы  компетентных органов, принятые после подписания настоящего Договора и делающие невозможным исполнение обязательств, установленных настоящим Договором, а также действия государственных или муниципальных органов и их представителей, препятствующих выполнению условий Договора и другие непредвиденные обстоятельства, в том числе неполадки городской электросети.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "7.2. К  обстоятельствам непреодолимой силы относятся события, на которые Сторона не может оказывать влияния и за возникновение которых она не несет ответственности, как то: война, восстание, землетрясение, наводнение,  пожар или подобные явления, забастовка, правительственные постановления, распоряжения (указы) государственных органов, законы и иные документы  компетентных органов, принятые после подписания настоящего Договора и делающие невозможным исполнение обязательств, установленных настоящим Договором, а также действия государственных или муниципальных органов и их представителей, препятствующих выполнению условий Договора и другие непредвиденные обстоятельства, в том числе неполадки городской электросети.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "7.3. Сторона, ссылающаяся на обстоятельства непреодолимой силы, обязана информировать другую Сторону, о наступлении подобных обстоятельств в письменной форме с приложением копий соответствующих документов. Информация должна содержать данные о характере обстоятельств, а также оценку их влияния на исполнение Стороной своих обязательств по настоящему Договору и на срок исполнения обязательств. В противном случае, она лишается права ссылаться на воздействие таких обстоятельств.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "7.3. Сторона, ссылающаяся на обстоятельства непреодолимой силы, обязана информировать другую Сторону, о наступлении подобных обстоятельств в письменной форме с приложением копий соответствующих документов. Информация должна содержать данные о характере обстоятельств, а также оценку их влияния на исполнение Стороной своих обязательств по настоящему Договору и на срок исполнения обязательств. В противном случае, она лишается права ссылаться на воздействие таких обстоятельств.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "7.4. По прекращении действия указанных обстоятельств, Сторона должна без промедления известить об этом другую Сторону в письменном виде. При этом Сторона должна указать срок, в который предполагается исполнить обязательства по настоящему Договору. Если Сторона не направит или несвоевременно направит необходимое извещение, то она обязана возместить другой Стороне убытки, причиненные не извещением или несвоевременным извещением.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "7.4. По прекращении действия указанных обстоятельств, Сторона должна без промедления известить об этом другую Сторону в письменном виде. При этом Сторона должна указать срок, в который предполагается исполнить обязательства по настоящему Договору. Если Сторона не направит или несвоевременно направит необходимое извещение, то она обязана возместить другой Стороне убытки, причиненные не извещением или несвоевременным извещением.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "7.5. В случае возникновения обстоятельств непреодолимой силы, срок выполнения обязательств по настоящему Договору отодвигается соразмерно времени, в течение которого действуют такие обстоятельства и их последствия.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "7.5. В случае возникновения обстоятельств непреодолимой силы, срок выполнения обязательств по настоящему Договору отодвигается соразмерно времени, в течение которого действуют такие обстоятельства и их последствия.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "7.6. В случае если обстоятельства непреодолимой силы действуют более 1 (одного) месяца, каждая из Сторон вправе расторгнуть договор в одностороннем внесудебном порядке. При этом Стороны должны осуществить сверку и завершить взаиморасчеты по Договору.  ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "7.6. В случае если обстоятельства непреодолимой силы действуют более 1 (одного) месяца,",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " к",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "аждая из Сторон вправе расторгнуть договор в одностороннем внесудебном порядке. При этом Стороны должны осуществить сверку и завершить взаиморасчеты по Договору.  ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "8. ПРОЧИЕ УСЛОВИЯ",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": [
+        {
+          "text": "8. ПРОЧИЕ УСЛОВИЯ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": []
+    },
+    {
+      "text": "8.1. Исполнитель несет риск случайной гибели или случайного повреждения результата выполненной работы до ее приемки Заказчиком.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "8.1. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнитель",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " несет риск случайной гибели или случайного повреждения результата выполненной работы до ее приемки ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "8.2.  На Заказчика ложится риск случайной гибели Объекта с момента подписания Акта приемки-передачи работ.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "8.2.  На ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчика",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ложится риск случайной гибели Объекта с момента подписания Акта приемки-передачи работ.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "8.3. В случае наступления неблагоприятных погодных условий (усиление скорости ветра более 10 м/с, понижение температуры воздуха ниже -15°С, дождь) срок выполнения обязательств Исполнителем по Договору будет увеличен на срок действия вышеуказанных условий.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "8.3. В случае наступления неблагоприятных погодных условий (усиление скорости ветра более 10 м/с, понижение температуры воздуха ниже -15°С, дождь) срок выполнения обязательств ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителем ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "по Договору будет увеличен на срок действия вышеуказанных условий.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "8.4 Элементы крепления, технологические стыки, швы и другие технологические элементы, ранее не указанные в эскизе, но необходимые для качественного выполнения работ, согласовываются с Заказчиком.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "8.4",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " Элементы крепления, технологические стыки, швы и другие технологические элементы, ранее не указанные в эскизе, но необходимые для качественного выполнения работ, согласовываются с ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "8.5. Исполнитель с согласия Заказчика может нанести на Объект свою маркировку (товарный знак, логотип и т.п.).",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "8.5. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнитель",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " с согласия ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчика",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " может нанести на Объект свою маркировку (товарный знак, логотип и т.п.).",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": []
+    },
+    {
+      "text": "9. ПОРЯДОК РАЗРЕШЕНИЯ СПОРОВ",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": [
+        {
+          "text": "9. ПОРЯДОК РАЗРЕШЕНИЯ СПОРОВ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": []
+    },
+    {
+      "text": "9.1. Разногласия, возникающие между сторонами, связанные с исполнением настоящего договора, подлежат обязательному досудебному урегулированию в претензионном порядке. Претензия направляется в письменной форме за подписью уполномоченного лица Стороны по адресу стороны, указанному в реквизитах настоящего Договора. Сторона, получившая претензию, в течение 10 (десяти) рабочих дней со дня ее получения обязана рассмотреть претензию и направить ответ другой Стороне.  Если Стороны не придут к соглашению по спорному вопросу, они обращаются в Арбитражный суд г. Москвы в соответствии с действующим законодательством РФ. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "9.1. Разногласия, возникающие между сторонами, связанные с исполнением настоящего договора, подлежат обязательному досудебному урегулированию в претензионном порядке. Претензия направляется в письменной форме за подписью уполномоченного лица Стороны по адресу стороны, указанному в реквизитах настоящего Договора. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Сторона, получившая претензию, в течение 10 (десяти) рабочих дней со дня ее получения обязана рассмотреть претензию и направить ответ другой Стороне. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " Если Стороны не придут к соглашению по спорному вопросу, они обращаются в Арбитражный суд г. Москвы в соответствии с действующим законодательством РФ. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "9.2. По всем вопросам, неурегулированным настоящим Договором, Стороны будут руководствоваться действующим законодательством Российской Федерации. ",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "9.2. По всем вопросам, неурегулированным настоящим Договором, Стороны будут руководствоваться действующим законодательством Российской Федерации. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "10. ГАРАНТИИ",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": [
+        {
+          "text": "10. ГАРАНТИИ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": []
+    },
+    {
+      "text": "10.1. Исполнитель берет на себя гарантийные обязательства за качество изготавливаемого Объекта в следующем объеме:",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "10.1. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнитель",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " берет на себя гарантийные обязательства за качество изготавливаемого Объекта в следующем объеме:",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "10.1.1. За качество светодиодной продукции в течение 36 месяцев (3 года) со дня подписания Заказчиком Акта приемки-передачи выполненных работ;",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "10.1.1. За качество светодиодной продукции в течение ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "36",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " месяцев ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "(",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "3",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " год",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "а",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ") ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "со дня подписания ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " Акта приемки-передачи выполненных работ;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "10.1.2. За качество конструктивных составляющих (металлокаркас, корпус) в течение 36 месяцев (3 года) со дня подписания Заказчиком Акта приемки-передачи выполненных работ;",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "10.1.2. За качество конструктивных составляющих (",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "металлокаркас",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ", корпус) в течение ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "36",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " месяцев ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "(",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "3",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " года) ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "со дня подписания ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " Акта приемки-передачи выполненных работ;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "10.2. Исполнитель несет ответственность за недостатки, обнаруженные в пределах гарантийного срока, если эти недостатки не явились следствием нормального износа изделия, конструкции, произведенного Заказчиком в процессе эксплуатации, либо в результате неправильной эксплуатации изделия, конструкции Заказчиком, либо повреждений со стороны третьих лиц, либо по иным причинам, независящим от Исполнителя.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "10.2. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнитель",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " несет ответственность за недостатки, обнаруженные в пределах гарантийного срока, если эти недостатки не явились следствием нормального износа изделия, конструкции, произведенного ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " в процессе эксплуатации, либо в результате неправильной эксплуатации изделия, конструкции ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ", либо повреждений со стороны третьих лиц, либо по иным причинам, независящим от ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнителя",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "10.3. В период действия Гарантийного срока, Исполнитель самостоятельно и за свой счет демонтирует конструкцию, осуществляет ее вывоз и доставку, осуществляет диагностику, ремонт или замену конструкции, по согласованию с Заказчиком, и ее повторный монтаж. Также Исполнитель за свой счет осуществляет вывоз мусора (остатков материала после монтажа/демонтажа конструкций).",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "10.3. В период действия Гарантийного срока, ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнитель",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " самостоятельно и за свой счет демонтирует конструкцию, осуществляет ее вывоз и доставку, осуществляет ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "диагностику, ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "ремонт или замену конструкции, по согласованию с ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчиком",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ", и ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "ее ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "повторный монтаж.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " Также ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнитель",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " за свой счет осуществляет вывоз мусора (остатков материала после монтажа/демонтажа",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " конструкций).",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "10.4. При наступлении гарантийного случая Исполнитель производит диагностику конструкций и комплектующих в течении 3 рабочих дней со дня получения запроса на гарантийное обслуживание от Заказчика. По результатам диагностики Исполнитель сообщает Заказчику срок, в который возможно устранение неисправности и согласовывает сроки повторного монтажа конструкции.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "10.4. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "При наступлении гарантийного случая ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнитель",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "производит диагностику конструкций ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "и комплектующих в течении 3 рабочих дней со дня получения запроса на гарантийное обслуживание от ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчика",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " По результатам диагностики ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Исполнитель",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " сообщает ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "Заказчику",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " срок, в который возможно устранение неисправности и согласовывает сроки повторного монтажа конструкции.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": []
+    },
+    {
+      "text": "11. ЗАКЛЮЧИТЕЛЬНЫЕ ПОЛОЖЕНИЯ",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": [
+        {
+          "text": "11. ЗАКЛЮЧИТЕЛЬНЫЕ ПОЛОЖЕНИЯ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": []
+    },
+    {
+      "text": "11.1. Настоящий Договор, включая Приложения, составлен при полном понимании Сторонами Предмета договора и заменяет любые другие соглашения по данному Предмету, заключенные ранее в устной или в письменной форме.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "11.1. Настоящий Договор, включая Приложения, составлен при полном понимании Сторонами Предмета договора и заменяет любые другие соглашения по данному Предмету, заключенные ранее в устной или в письменной форме.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "11.2. Изменения и дополнения к настоящему Договору действительны лишь в том случае, если они совершены в письменной форме и подписаны представителями обеих Сторон.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "11.2. Изменения и дополнения к настоящему Договору действительны лишь в том случае, если они совершены в письменной форме и подписаны представителями обеих Сторон.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "11.3. Переход прав и обязанностей одной из Сторон по настоящему Договору к третьему лицу возможен с письменного согласия второй Стороны.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "11.3. Переход прав и обязанностей одной из Сторон по настоящему Договору к третьему лицу возможен с письменного согласия второй Стороны.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "11.4. Настоящий Договор подписан на русском языке в двух экземплярах, по одному для каждой из Сторон, причем оба текста имеют равную юридическую силу.",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "11.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "4",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ". Настоящий Договор подписан на русском языке в двух экземплярах, по одному для каждой из Сторон, причем оба текста имеют равную юридическую силу.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": []
+    },
+    {
+      "text": "{{ДОПОЛНИТЕЛЬНЫЕ УСЛОВИЯ — необязательно}}",
+      "style": "Normal",
+      "alignment": 3,
+      "runs": [
+        {
+          "text": "{{ДОПОЛНИТЕЛЬНЫЕ УСЛОВИЯ — необязательно}}",
+          "bold": false,
+          "italic": null,
+          "underline": null,
+          "font": "Times New Roman",
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "12. ЮРИДИЧЕСКИЕ АДРЕСА, БАНКОВСКИЕ РЕКВИЗИТЫ И ПОДПИСИ СТОРОН:",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": [
+        {
+          "text": "1",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "2",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": ". ЮРИДИЧЕСКИЕ АДРЕСА,",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": " ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        },
+        {
+          "text": "БАНКОВСКИЕ РЕКВИЗИТЫ И ПОДПИСИ СТОРОН:",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 11.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": 1,
+      "runs": []
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": [
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 10.0
+        }
+      ]
+    },
+    {
+      "text": "                                  \t ",
+      "style": "Normal",
+      "alignment": null,
+      "runs": [
+        {
+          "text": "                                  ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 8.0
+        },
+        {
+          "text": "\t",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 8.0
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font": null,
+          "size_pt": 10.0
+        }
+      ]
+    },
+    {
+      "text": "",
+      "style": "Body Text Indent",
+      "alignment": 2,
+      "runs": []
+    },
+    {
+      "text": "",
+      "style": "Normal",
+      "alignment": null,
+      "runs": []
+    }
+  ],
+  "tables": [
+    {
+      "style": "Normal Table",
+      "rows": 1,
+      "cols": 2,
+      "grid_dxa": [
+        4558,
+        5340
+      ],
+      "cells": [
+        [
+          {
+            "text": " \nООО «Мастера Рекламы» \nИНН 7713394262 \nКПП 774301001 \nР\\с 40702810602310000342 \nК\\с 30101810200000000593 \nБИК 044525593 \nАО АЛЬФА-БАНК  ",
+            "paragraphs": [
+              {
+                "text": " ",
+                "style": "Normal",
+                "alignment": null,
+                "runs": [
+                  {
+                    "text": " ",
+                    "bold": true,
+                    "italic": true,
+                    "underline": null,
+                    "font": null,
+                    "size_pt": 10.0
+                  }
+                ]
+              },
+              {
+                "text": "ООО «Мастера Рекламы» ",
+                "style": "Normal",
+                "alignment": null,
+                "runs": [
+                  {
+                    "text": "ООО «Мастера Рекламы» ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font": null,
+                    "size_pt": null
+                  }
+                ]
+              },
+              {
+                "text": "ИНН 7713394262 ",
+                "style": "Normal",
+                "alignment": null,
+                "runs": [
+                  {
+                    "text": "ИНН 7713394262 ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font": null,
+                    "size_pt": null
+                  }
+                ]
+              },
+              {
+                "text": "КПП 774301001 ",
+                "style": "Normal",
+                "alignment": null,
+                "runs": [
+                  {
+                    "text": "КПП 774301001 ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font": null,
+                    "size_pt": null
+                  }
+                ]
+              },
+              {
+                "text": "Р\\с 40702810602310000342 ",
+                "style": "Normal",
+                "alignment": null,
+                "runs": [
+                  {
+                    "text": "Р\\с 40702810602310000342 ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font": null,
+                    "size_pt": null
+                  }
+                ]
+              },
+              {
+                "text": "К\\с 30101810200000000593 ",
+                "style": "Normal",
+                "alignment": null,
+                "runs": [
+                  {
+                    "text": "К\\с 30101810200000000593 ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font": null,
+                    "size_pt": null
+                  }
+                ]
+              },
+              {
+                "text": "БИК 044525593 ",
+                "style": "Normal",
+                "alignment": null,
+                "runs": [
+                  {
+                    "text": "БИК 044525593 ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font": null,
+                    "size_pt": null
+                  }
+                ]
+              },
+              {
+                "text": "АО АЛЬФА-БАНК  ",
+                "style": "Normal",
+                "alignment": null,
+                "runs": [
+                  {
+                    "text": "АО АЛЬФА-БАНК ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font": null,
+                    "size_pt": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font": null,
+                    "size_pt": 10.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "{{РЕКВИЗИТЫ ЗАКАЗЧИКА}}",
+            "paragraphs": [
+              {
+                "text": "{{РЕКВИЗИТЫ ЗАКАЗЧИКА}}",
+                "style": "Normal",
+                "alignment": 0,
+                "runs": [
+                  {
+                    "text": "",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font": null,
+                    "size_pt": null
+                  },
+                  {
+                    "text": "{{РЕКВИЗИТЫ ЗАКАЗЧИКА}}",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font": "Times New Roman",
+                    "size_pt": 11.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "style": "Normal Table",
+      "rows": 1,
+      "cols": 2,
+      "grid_dxa": [
+        4644,
+        5387
+      ],
+      "cells": [
+        [
+          {
+            "text": "",
+            "paragraphs": [
+              {
+                "text": "",
+                "style": "Normal",
+                "alignment": 0,
+                "runs": [
+                  {
+                    "text": "",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font": null,
+                    "size_pt": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "",
+            "paragraphs": [
+              {
+                "text": "",
+                "style": "Normal",
+                "alignment": 0,
+                "runs": [
+                  {
+                    "text": "",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font": null,
+                    "size_pt": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "style": "Normal Table",
+      "rows": 1,
+      "cols": 2,
+      "grid_dxa": [
+        4558,
+        5340
+      ],
+      "cells": [
+        [
+          {
+            "text": "Исполнитель:\n{{ПОДПИСЬ ООО — опционально}}\n{{ПЕЧАТЬ ООО — опционально}}\n________________ /Гассиев А.Р./",
+            "paragraphs": [
+              {
+                "text": "Исполнитель:\n{{ПОДПИСЬ ООО — опционально}}\n{{ПЕЧАТЬ ООО — опционально}}\n________________ /Гассиев А.Р./",
+                "style": "Normal",
+                "alignment": 0,
+                "runs": [
+                  {
+                    "text": "",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font": null,
+                    "size_pt": null
+                  },
+                  {
+                    "text": "Исполнитель:\n",
+                    "bold": true,
+                    "italic": false,
+                    "underline": null,
+                    "font": "Times New Roman",
+                    "size_pt": 10.0
+                  },
+                  {
+                    "text": "{{ПОДПИСЬ ООО — опционально}}",
+                    "bold": false,
+                    "italic": null,
+                    "underline": null,
+                    "font": "Times New Roman",
+                    "size_pt": 10.0
+                  },
+                  {
+                    "text": "\n",
+                    "bold": false,
+                    "italic": false,
+                    "underline": null,
+                    "font": "Times New Roman",
+                    "size_pt": 10.0
+                  },
+                  {
+                    "text": "{{ПЕЧАТЬ ООО — опционально}}",
+                    "bold": false,
+                    "italic": null,
+                    "underline": null,
+                    "font": "Times New Roman",
+                    "size_pt": 10.0
+                  },
+                  {
+                    "text": "\n________________ /Гассиев А.Р./",
+                    "bold": false,
+                    "italic": false,
+                    "underline": null,
+                    "font": "Times New Roman",
+                    "size_pt": 10.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Заказчик:\n\n________________ /{{ПОДПИСАНТ ЗАКАЗЧИКА}}/",
+            "paragraphs": [
+              {
+                "text": "Заказчик:\n\n________________ /{{ПОДПИСАНТ ЗАКАЗЧИКА}}/",
+                "style": "Normal",
+                "alignment": 0,
+                "runs": [
+                  {
+                    "text": "",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font": null,
+                    "size_pt": null
+                  },
+                  {
+                    "text": "Заказчик:\n",
+                    "bold": true,
+                    "italic": false,
+                    "underline": null,
+                    "font": "Times New Roman",
+                    "size_pt": 10.0
+                  },
+                  {
+                    "text": "\n________________ /",
+                    "bold": false,
+                    "italic": false,
+                    "underline": null,
+                    "font": "Times New Roman",
+                    "size_pt": 10.0
+                  },
+                  {
+                    "text": "{{ПОДПИСАНТ ЗАКАЗЧИКА}}",
+                    "bold": false,
+                    "italic": null,
+                    "underline": null,
+                    "font": "Times New Roman",
+                    "size_pt": 10.0
+                  },
+                  {
+                    "text": "/",
+                    "bold": false,
+                    "italic": false,
+                    "underline": null,
+                    "font": "Times New Roman",
+                    "size_pt": 10.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "page_width_twips": 11906,
+      "page_height_twips": 16838,
+      "top_margin_twips": 899,
+      "bottom_margin_twips": 1134,
+      "left_margin_twips": 1276,
+      "right_margin_twips": 849,
+      "header_distance_twips": 709,
+      "footer_distance_twips": 709,
+      "header": {
+        "paragraphs": [
+          {
+            "text": "4",
+            "style": "annotation text",
+            "alignment": 1,
+            "runs": [
+              {
+                "text": "",
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "font": null,
+                "size_pt": null
+              },
+              {
+                "text": "",
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "font": null,
+                "size_pt": null
+              },
+              {
+                "text": "",
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "font": null,
+                "size_pt": null
+              },
+              {
+                "text": "4",
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "font": null,
+                "size_pt": null
+              },
+              {
+                "text": "",
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "font": null,
+                "size_pt": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "style": "annotation text",
+            "alignment": null,
+            "runs": []
+          }
+        ],
+        "tables": []
+      },
+      "footer": {
+        "paragraphs": [
+          {
+            "text": "Исполнитель_____________\t\t                                        Заказчик________________",
+            "style": "Subtitle",
+            "alignment": null,
+            "runs": [
+              {
+                "text": "Исполнитель",
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "font": null,
+                "size_pt": 11.0
+              },
+              {
+                "text": "_____________",
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "font": null,
+                "size_pt": 11.0
+              },
+              {
+                "text": "\t",
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "font": null,
+                "size_pt": 11.0
+              },
+              {
+                "text": "\t                                      ",
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "font": null,
+                "size_pt": 11.0
+              },
+              {
+                "text": "  ",
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "font": null,
+                "size_pt": 11.0
+              },
+              {
+                "text": "Заказчик",
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "font": null,
+                "size_pt": 11.0
+              },
+              {
+                "text": "________________",
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "font": null,
+                "size_pt": 11.0
+              }
+            ]
+          }
+        ],
+        "tables": []
+      }
+    }
+  ],
+  "inline_shapes": 0,
+  "package_parts": [
+    {
+      "path": "[Content_Types].xml",
+      "size": 2745,
+      "sha256": "e2e545d3c62053cae7369aa3920a7555c1fae99e7ce9d71e5104b8d3d0630bc9"
+    },
+    {
+      "path": "_rels/.rels",
+      "size": 736,
+      "sha256": "c338a3826b3429b89a283d9ff441f064e7f8cac1ba94c60fa5b7aa23c5adb676"
+    },
+    {
+      "path": "docProps/app.xml",
+      "size": 1029,
+      "sha256": "216870a255f33e75ce280781437d60180d053eb20bba57e78bf1ae470b24ce6e"
+    },
+    {
+      "path": "docProps/core.xml",
+      "size": 769,
+      "sha256": "83b93f9c7c6df0dd95f020ccc1528052c65bf7b3e1d92030a0a7bf3cce87c19f"
+    },
+    {
+      "path": "word/document.xml",
+      "size": 129300,
+      "sha256": "d452256c8b4bd9399296590d345066a2781f59e492332945bfdc41d8eb10d406"
+    },
+    {
+      "path": "word/_rels/document.xml.rels",
+      "size": 2171,
+      "sha256": "9a3639a40c898e2cb5c87b3a3a65d0ab363df803949070a77dc5432b96713ea0"
+    },
+    {
+      "path": "word/webSettings.xml",
+      "size": 10010,
+      "sha256": "e6d46d497a7fe4baf6d520f986565df750d098a3370f3ce2789e0d6f05e40c7c"
+    },
+    {
+      "path": "word/header1.xml",
+      "size": 2858,
+      "sha256": "5503a0ef51dcb028e6e517160e21da37244218449ecc4016a3eab5cbbea0805c"
+    },
+    {
+      "path": "customXml/item3.xml",
+      "size": 128,
+      "sha256": "fa2fe0496782615cb38c496727e134e55c188321fe32e16345f019e7eef27288"
+    },
+    {
+      "path": "customXml/_rels/item3.xml.rels",
+      "size": 295,
+      "sha256": "71ab67aa89fdda4d23a4d4ce376af7ff14ce3a4098e3a9a4d71f1f7c0a183ad8"
+    },
+    {
+      "path": "customXml/itemProps3.xml",
+      "size": 339,
+      "sha256": "e4fe19be005c0f85edfc8ea9b6cbb1b661f298c71e440eda1e4dce09664ba578"
+    },
+    {
+      "path": "word/settings.xml",
+      "size": 22524,
+      "sha256": "e78c5735720be26ff2b0a83c59e5c5646785a7dde040f33ab7adf1cf18929ec3"
+    },
+    {
+      "path": "word/theme/theme1.xml",
+      "size": 8444,
+      "sha256": "66112b00cf96d9f52a52d711740925ee944679b6b46f0a1abe5cddd9ce7c500e"
+    },
+    {
+      "path": "customXml/item2.xml",
+      "size": 270,
+      "sha256": "c8092edbb672f8c93f1d5ef66539a6f169462ba8738b785b59cc5d96f4aca59a"
+    },
+    {
+      "path": "customXml/_rels/item2.xml.rels",
+      "size": 295,
+      "sha256": "435eae789df4fbec2fa6bcb6c79d825d4ca93036d43a819aa05e3d5e5f5586be"
+    },
+    {
+      "path": "customXml/itemProps2.xml",
+      "size": 341,
+      "sha256": "fd41521995426a497a470badd48fc37010ccf863f47c5cf7abc496e4021baa4c"
+    },
+    {
+      "path": "word/fontTable.xml",
+      "size": 2958,
+      "sha256": "3a260991e35d1eed3acdca94605d1ae06868885d1525b83b9f590220ce661786"
+    },
+    {
+      "path": "customXml/item1.xml",
+      "size": 21430,
+      "sha256": "16da0fab506fc40b7bb37b45828cd70bed889b1f13cfa297c2b7b0ad8d03c76a"
+    },
+    {
+      "path": "customXml/_rels/item1.xml.rels",
+      "size": 295,
+      "sha256": "1ca6c9a64edcebe24ee703a54403611b322d96da33371779e742d2d3f7ed7a6c"
+    },
+    {
+      "path": "customXml/itemProps1.xml",
+      "size": 1149,
+      "sha256": "6517013e9434da9ce49eb601870fc5977c53ea33b14473a595edc94d7b80b83c"
+    },
+    {
+      "path": "word/styles.xml",
+      "size": 34314,
+      "sha256": "9421add91b4b5437cd53d37dcd2e002496380b5dbe899a77cb44ec5eb42e23c9"
+    },
+    {
+      "path": "word/numbering.xml",
+      "size": 20310,
+      "sha256": "fab847b2c768dc8e733c93269ad4d1c55378cf90f4c12e63d3c70373dc7efa12"
+    },
+    {
+      "path": "word/footer2.xml",
+      "size": 3380,
+      "sha256": "eca18cd9c690419cfae69ca6d33567554034fdb1b2cf9e0cbe4ce947434a38af"
+    },
+    {
+      "path": "word/endnotes.xml",
+      "size": 2686,
+      "sha256": "9417c15a8be25ce419a6cb381a317b7edd2a7568115f1a526f671bec03cddc7f"
+    },
+    {
+      "path": "customXml/item4.xml",
+      "size": 219,
+      "sha256": "5efcaf9ad70d9c29f406ee438f8f428b021a881d2c5afff0e53b00b1f67ae51e"
+    },
+    {
+      "path": "customXml/_rels/item4.xml.rels",
+      "size": 295,
+      "sha256": "b4b50a37d675225476941f58a3ae4333d3d5d74557ca97d87587547a3256c784"
+    },
+    {
+      "path": "customXml/itemProps4.xml",
+      "size": 335,
+      "sha256": "360f42100dc3121c462be095fb55bd1847c738d75ed57ab54f120a7c80ef46ef"
+    },
+    {
+      "path": "word/footnotes.xml",
+      "size": 2692,
+      "sha256": "9c6a80e8042bcf776e11ba5b37ec190e1faf546795e2df61be1382ad9019916e"
+    },
+    {
+      "path": "word/footer1.xml",
+      "size": 2874,
+      "sha256": "b75ca4b29326acd2b0cbd1252ce41bbbaa76d175f43b57b09b52cc36296ee9a1"
+    },
+    {
+      "path": "docProps/custom.xml",
+      "size": 2861,
+      "sha256": "c0e38f9299aab586367454cc2d3f1a29c09b387018b51383aa3b2dcac2d27536"
+    }
+  ]
+}
