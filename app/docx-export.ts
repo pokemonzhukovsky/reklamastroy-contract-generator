@@ -10,6 +10,7 @@ import {
   buildCustomerPreamble,
   buildPerformerPreamble,
   customerRequisites,
+  emphasizeTextSegments,
   entityTaxText,
   formatDateLong,
   formatDateNumeric,
@@ -131,6 +132,34 @@ function paragraph(
         font: "Times New Roman",
       }),
     ],
+  });
+}
+
+function contractPreambleParagraph(
+  docx: DocxModule,
+  form: GeneratorForm,
+) {
+  const performer = PERFORMERS[form.entity];
+  const text = `${buildCustomerPreamble(form.customer)} с одной стороны, и ${buildPerformerPreamble(form.entity)}, с другой стороны, совместно именуемые «Стороны», заключили настоящий Договор о нижеследующем:`;
+  const emphasized = [
+    form.customer.name,
+    form.customer.representative,
+    performer.full,
+    form.entity === "ooo" ? PERFORMERS.ooo.signerGenitive : PERFORMERS.ip.signer,
+  ];
+
+  return new docx.Paragraph({
+    alignment: docx.AlignmentType.JUSTIFIED,
+    spacing: { before: 150, after: 120, line: 276 },
+    children: emphasizeTextSegments(text, emphasized).map(
+      (segment) =>
+        new docx.TextRun({
+          text: segment.text,
+          bold: segment.bold,
+          size: 22,
+          font: "Times New Roman",
+        }),
+    ),
   });
 }
 
@@ -307,11 +336,7 @@ async function contractChildren(
       { alignment: docx.AlignmentType.CENTER, after: 180 },
     ),
     dateTable,
-    paragraph(
-      docx,
-      `${buildCustomerPreamble(form.customer)} с одной стороны, и ${buildPerformerPreamble(form.entity)}, с другой стороны, совместно именуемые «Стороны», заключили настоящий Договор о нижеследующем:`,
-      { before: 150, after: 120 },
-    ),
+    contractPreambleParagraph(docx, form),
     ...bodyParagraphs,
     ...(form.additionalConditions.trim()
       ? [
@@ -449,7 +474,12 @@ async function appendixChildren(
             docx,
             [
               paragraph(docx, "Исполнитель:", { bold: true, alignment: docx.AlignmentType.LEFT }),
-              paragraph(docx, performer.short, { alignment: docx.AlignmentType.LEFT }),
+              ...performer.requisites.map((line) =>
+                paragraph(docx, line, {
+                  alignment: docx.AlignmentType.LEFT,
+                  after: 0,
+                }),
+              ),
               ...(await signatureParagraphs(docx, form, assets)),
             ],
             4680,

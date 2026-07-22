@@ -10,6 +10,7 @@ import {
   buildCustomerPreamble,
   buildPerformerPreamble,
   customerRequisites,
+  emphasizeTextSegments,
   entityTaxText,
   formatDateLong,
   formatDateNumeric,
@@ -95,6 +96,7 @@ function partiesTable(form: GeneratorForm, assets: PdfAssets): PdfNode {
 }
 
 function contractContent(form: GeneratorForm, assets: PdfAssets): PdfNode[] {
+  const performer = PERFORMERS[form.entity];
   const body = resolveContractBody(form.contractBodies[form.entity]);
   const bodyParagraphs: PdfNode[] = body
     .split(/\n\s*\n/)
@@ -125,7 +127,15 @@ function contractContent(form: GeneratorForm, assets: PdfAssets): PdfNode[] {
       margin: [0, 0, 0, 14],
     },
     {
-      text: `${buildCustomerPreamble(form.customer)} с одной стороны, и ${buildPerformerPreamble(form.entity)}, с другой стороны, совместно именуемые «Стороны», заключили настоящий Договор о нижеследующем:`,
+      text: emphasizeTextSegments(
+        `${buildCustomerPreamble(form.customer)} с одной стороны, и ${buildPerformerPreamble(form.entity)}, с другой стороны, совместно именуемые «Стороны», заключили настоящий Договор о нижеследующем:`,
+        [
+          form.customer.name,
+          form.customer.representative,
+          performer.full,
+          form.entity === "ooo" ? PERFORMERS.ooo.signerGenitive : PERFORMERS.ip.signer,
+        ],
+      ),
       alignment: "justify",
       margin: [0, 0, 0, 8],
     },

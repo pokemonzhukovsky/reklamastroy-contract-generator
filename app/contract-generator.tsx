@@ -29,6 +29,7 @@ import {
   buildCustomerPreamble,
   buildPerformerPreamble,
   customerRequisites,
+  emphasizeTextSegments,
   entityTaxText,
   extractTemplateBody,
   formatDateLong,
@@ -265,6 +266,13 @@ function ContractPreview({
   assets: PerformerAssets;
 }) {
   const performer = PERFORMERS[form.entity];
+  const preamble = `${buildCustomerPreamble(form.customer)} с одной стороны, и ${buildPerformerPreamble(form.entity)}, с другой стороны, совместно именуемые «Стороны», заключили настоящий Договор о нижеследующем:`;
+  const preambleSegments = emphasizeTextSegments(preamble, [
+    form.customer.name,
+    form.customer.representative,
+    performer.full,
+    form.entity === "ooo" ? PERFORMERS.ooo.signerGenitive : PERFORMERS.ip.signer,
+  ]);
   const requisites = customerRequisites(form.customer);
   const paragraphs = resolveContractBody(form.contractBodies[form.entity])
     .split(/\n\s*\n/)
@@ -285,9 +293,13 @@ function ContractPreview({
         <span>{formatDateLong(form.contractDate)}</span>
       </div>
       <p>
-        <strong>{buildCustomerPreamble(form.customer)}</strong> с одной стороны, и {" "}
-        <strong>{buildPerformerPreamble(form.entity)}</strong>, с другой стороны,
-        совместно именуемые «Стороны», заключили настоящий Договор о нижеследующем:
+        {preambleSegments.map((segment, index) =>
+          segment.bold ? (
+            <strong key={`${index}-${segment.text}`}>{segment.text}</strong>
+          ) : (
+            <span key={`${index}-${segment.text}`}>{segment.text}</span>
+          ),
+        )}
       </p>
 
       <div className="contract-body">

@@ -21,6 +21,8 @@ export const PERFORMERS = {
       "К/с 30101810200000000593",
       "БИК 044525593",
       "АО «АЛЬФА-БАНК»",
+      "E-mail sales@reklamastroy.ru",
+      "Телефон 8 495 008-37-95",
     ],
   },
   ip: {
@@ -37,9 +39,41 @@ export const PERFORMERS = {
       "К/с 30101810200000000593",
       "БИК 044525593",
       "АО «АЛЬФА-БАНК»",
+      "E-mail sales@reklamastroy.ru",
+      "Телефон 8 495 008-37-95",
     ],
   },
 } as const;
+
+export function emphasizeTextSegments(
+  text: string,
+  emphasizedValues: string[],
+): Array<{ text: string; bold: boolean }> {
+  if (!text) return [];
+  const bold = Array.from({ length: text.length }, () => false);
+
+  for (const rawValue of emphasizedValues) {
+    const value = rawValue.trim();
+    if (!value) continue;
+    let start = text.indexOf(value);
+    while (start >= 0) {
+      for (let index = start; index < start + value.length; index += 1) {
+        bold[index] = true;
+      }
+      start = text.indexOf(value, start + value.length);
+    }
+  }
+
+  const segments: Array<{ text: string; bold: boolean }> = [];
+  let start = 0;
+  for (let index = 1; index <= text.length; index += 1) {
+    if (index === text.length || bold[index] !== bold[start]) {
+      segments.push({ text: text.slice(start, index), bold: bold[start] });
+      start = index;
+    }
+  }
+  return segments;
+}
 
 export function extractTemplateBody(report: TemplateReport): string {
   const paragraphs = report.paragraphs
